@@ -6,4 +6,4 @@ def capitalize_string(s):
     return s.capitalize()
 
 def test_capitalize_string():
-    assert capitalize_string('fdgfdg') == 'Fdgfdg'
+    assert capitalize_string('4324324234234') == 'Fdgfdg'
