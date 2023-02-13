@@ -2,7 +2,7 @@ name: Run Python Tests
 on:
   push:
     branches:
-      - master
+      - test_demo.py
   pull_request:
     branches:
       - master
